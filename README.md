@@ -41,13 +41,6 @@ UAA, UAG, UGA         | STOP
 
 Learn more about [protein translation on Wikipedia](http://en.wikipedia.org/wiki/Translation_(biology))
 
-## Setup
-
-Go through the setup instructions for Javascript to
-install the necessary dependencies:
-
-[https://exercism.io/tracks/javascript/installation](https://exercism.io/tracks/javascript/installation)
-
 ## Requirements
 
 Install assignment dependencies:
@@ -74,5 +67,3 @@ changing `xtest` to `test`.
 
 Tyler Long
 
-## Submitting Incomplete Solutions
-It's possible to submit an incomplete solution so you can see how others have completed the exercise.
